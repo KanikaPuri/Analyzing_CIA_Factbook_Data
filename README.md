@@ -1,0 +1,2 @@
+# Analyzing_CIA_Factbook_Data
+Explored the Python SQLite workflow to explore, analyze, and visualize data from this database. The data from the CIA World Factbook is a compendium of statistics about all the countries. The Factbook contains demographic information like:  population - The population as of 2015. population_growth - The annual population growth rate, as a percentage. area - The total land and water area.
